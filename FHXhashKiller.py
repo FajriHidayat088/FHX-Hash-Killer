@@ -35,7 +35,7 @@ def banner():
 	print (Y+" | "+R+"Hash Cracker "+W+"1.3.0"+Y+"  By : FHX Tutorial                     |")
 	print (Y+" | "+B+"["+W+"="+B+"]"+W+" Author : ./Bazengers"+Y+"                                  |")
 	print (Y+" | "+B+"["+W+"="+B+"] "+W+"Site   : www.fhxtutorial.blogspot.com "+Y+"                |")
-	print (Y+" |        "+B+"      ["+R+"+"+B+"] "+W+"python2 "+sys.argv[0]+" --info "+B+"["+R+"+"+B+"]"+Y+"               |")
+	print (Y+" |        "+B+"      ["+R+"+"+B+"] "+W+"python2 "+sys.argv[0]+" --info "+B+"["+R+"+"+B+"]"+Y+"      |")
 	print (Y+" 0{=========================================================}0\n")
 
 def info():
